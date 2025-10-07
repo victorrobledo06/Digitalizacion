@@ -1,0 +1,4 @@
+[2025-10-07 22:45:15] Error al subir a GitHub: error: src refspec main does not match any
+error: failed to push some refs to 'github.com:victorrobledo06/Digitalizacion.git'
+
+[2025-10-07 22:45:15] === Fin de copia hacia GitHub ===
